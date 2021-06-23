@@ -1,7 +1,7 @@
 <?php
     class Inventario
     {
-        public function VerInevntario()
+        public function VerInventario()
         {
             echo "En Ver Inventario";
         }
